@@ -1,4 +1,5 @@
-<script>(function () {
+<script>
+    (function () {
 	setTimeout(function() {		
 		var settings = {
 			IDmetrika: *******
